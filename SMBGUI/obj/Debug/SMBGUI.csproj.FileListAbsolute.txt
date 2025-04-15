@@ -1,0 +1,154 @@
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\SMBGUI.exe.config
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\SMBGUI.exe.manifest
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\SMBGUI.application
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\SMBGUI.exe
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\SMBGUI.pdb
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Azure.Core.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Graph.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Abstractions.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Buffers.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Memory.Data.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Memory.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Text.Json.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Tavis.UriTemplates.dll
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Azure.Core.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Graph.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Abstractions.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Authentication.Azure.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Form.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Json.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Text.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Buffers.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Memory.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Memory.Data.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Text.Json.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\bin\Debug\System.ValueTuple.xml
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.csproj.AssemblyReference.cache
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.frmGui.resources
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.frmInformazioni.resources
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.Properties.Resources.resources
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.SMBLibrary.DuplicaConfigurazioneForm.resources
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.csproj.GenerateResource.cache
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.csproj.CoreCompileInputs.cache
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.exe.manifest
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.application
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.csproj.CopyComplete
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.exe
+C:\Users\feamato\source\repos\SMBGUI - Ref Remove\SMBGUI\obj\Debug\SMBGUI.pdb
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.frmGui.resources
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.frmInformazioni.resources
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.Properties.Resources.resources
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.SMBLibrary.DuplicaConfigurazioneForm.resources
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.SMBLibrary.frmArchivio.resources
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.csproj.GenerateResource.cache
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.csproj.CoreCompileInputs.cache
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.exe
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.pdb
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\SMBGUI.exe.config
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\SMBGUI.exe.manifest
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\SMBGUI.application
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\SMBGUI.exe
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\SMBGUI.pdb
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Azure.Core.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Graph.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Abstractions.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Buffers.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Memory.Data.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Memory.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Text.Json.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Tavis.UriTemplates.dll
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Azure.Core.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Graph.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Abstractions.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Authentication.Azure.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Form.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Json.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Microsoft.Kiota.Serialization.Text.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Buffers.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Memory.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Memory.Data.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Text.Json.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\bin\Debug\System.ValueTuple.xml
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.exe.manifest
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.application
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.csproj.AssemblyReference.cache
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.SMBLibrary.CustomDialogForm.resources
+C:\Users\feamato\source\repos\SMBGUI\SMBGUI\obj\Debug\SMBGUI.csproj.Up2Date
