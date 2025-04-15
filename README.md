@@ -1,0 +1,2 @@
+# smbgui
+Manage SMB connection 
